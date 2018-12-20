@@ -55,11 +55,11 @@
   "author": "Avanish Pathak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/apathak1/react-slack-plugin/issues"
+    "url": "https://github.com/sielay/react-slack-plugin/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/5punk/react-slack-chat.git"
+    "url": "https://github.com/siealy/react-slack-chat.git"
   },
-  "homepage": "https://github.com/apathak1/react-slack-plugin#readme"
+  "homepage": "https://github.com/sielay/react-slack-plugin#readme"
 }
